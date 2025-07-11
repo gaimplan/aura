@@ -80,7 +80,7 @@ Our vision is to create the best open-source AI-native local notes application. 
 
 ## 📄 License
 
-Aura is licensed under the [MIT License](LICENSE).
+Aura is licensed under the [Apache 2.0 License](LICENSE).
 
 ---
 
