@@ -20,9 +20,9 @@ Aura is a modern, local-first, and open-source knowledge management application 
 
 ## 🚀 Getting Started (Beta)
 
-### For Users (No Setup Required!)
+### For Users (No Setup Required!) 
 
-1.  Download the latest DMG installer: [Aura_0.1.0_aarch64.dmg](https://github.com/gaimplan/aura/raw/refs/heads/main/beta/Aura_0.1.0_aarch64.dmg)
+1.  Download the latest DMG installer <<< coming soon!
 2.  Double-click the DMG file to mount it
 3.  Drag Aura.app to your Applications folder
 4.  Launch Aura from Applications or Spotlight
