@@ -73,9 +73,7 @@ We'd love your help building Aura! Here are a few ways you can contribute:
 
 Our vision is to create the best open-source AI-native local notes application. Here's what we're focused on:
 
-*   **✅ Core Editor & UI:** A polished and feature-rich editor.
-*   **🔄 Sync & Mobile:** A native iOS companion app with seamless iCloud sync.
-*   **🧠 AI & Knowledge Discovery:** Integrating local AI-powered search and discovery features.
+*   **🔄 Sync & Mobile:** A native iOS companion app with s
 *   **🔌 Extensibility:** A secure plugin system for community contributions.
 
 ## 📄 License
