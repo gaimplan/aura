@@ -46,3 +46,6 @@ coverage/
 # Test files
 test-vault/
 test-vault-setup.cjs
+
+.docs
+CLAUDE.md

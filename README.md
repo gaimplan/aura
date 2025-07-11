@@ -14,6 +14,8 @@ Aura is a modern, local-first, and open-source knowledge management application 
 *   **🧠 AI & Knowledge Discovery:** Integrated local AI-powered chat with notes.
 *   **🗂️ Tabs & Split View:** Open and edit multiple notes at once. Organize your workspace with a powerful tab system and resizable split panes.
 *   **🖼️ Seamless Image Integration:** Simply paste images from your clipboard directly into your notes. Aura handles the rest.
+*   **🌟 Highlights Summarization:** Instantly extract and summarize all highlighted text from your notes with one click. Use highlights as key 'context' in AI chat with notes. 
+*   **📤 Export to Multiple Formats:** Export your notes to PDF, HTML, or Word documents with perfect formatting preservation.
 *   **🌐 Cross-Platform:** Available for Windows, macOS, and Linux.
 
 ## 🚀 Getting Started (Beta)
