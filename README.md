@@ -1,18 +1,19 @@
 # Aura
 
-**A fast, private, and beautiful open-source notes app.**
+**A fast, private, and beautiful open-source notes app with AI-powered knowledge discovery.**
 
-Aura is a modern, local-first, and open-source knowledge management application. It provides the polish and performance of a native application with the privacy and data ownership of a local-first approach. Your notes are stored as plain Markdown files on your computer, so you're always in control.
+Aura is a modern, local-first, and open-source knowledge management application that combines the power of AI with the simplicity of Markdown. It provides the polish and performance of a native application with the privacy and data ownership of a local-first approach. Your notes are stored as plain Markdown files on your computer, so you're always in control. With integrated AI chat, powerful tab management, split-view editing, and seamless image integration, Aura transforms how you capture, organize, and discover knowledge.
 
 ---
 
 ## ✨ Key Features
 
 *   **📝 Beautiful Markdown Editor:** A distraction-free writing experience with live preview, beautiful typography (Inter font), and advanced formatting.
+*   **🚀 Fast & Lightweight:** Built with Tauri and Rust, Aura is incredibly fast and has a tiny memory footprint.
+*   **🔒 Privacy First & Local:** Your data is yours. Aura is 100% local, with no telemetry or cloud dependencies.
+*   **🧠 AI & Knowledge Discovery:** Integrated local AI-powered chat with notes.
 *   **🗂️ Tabs & Split View:** Open and edit multiple notes at once. Organize your workspace with a powerful tab system and resizable split panes.
 *   **🖼️ Seamless Image Integration:** Simply paste images from your clipboard directly into your notes. Aura handles the rest.
-*   **🔒 Privacy First & Local:** Your data is yours. Aura is 100% local, with no telemetry or cloud dependencies.
-*   **🚀 Fast & Lightweight:** Built with Tauri and Rust, Aura is incredibly fast and has a tiny memory footprint.
 *   **🌐 Cross-Platform:** Available for Windows, macOS, and Linux.
 
 ## 🚀 Getting Started (Beta)
